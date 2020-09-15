@@ -1,8 +1,8 @@
 # DashBoard
 
 StyleSheets and Javascript files are Created and Linked
-Icons Resources are from -> https://ionicons.com/
-Fonts are from -> https://fonts.google.com/
+> Icons Resources are from -> https://ionicons.com/
+> Fonts are from -> https://fonts.google.com/
 
 understanding:
 >   :root is the pseudo class in CSS and It represent the root element.
